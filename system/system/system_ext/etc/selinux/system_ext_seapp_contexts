@@ -1,0 +1,11 @@
+user=_app seinfo=platform name=com.mediatek.engineermode domain=em_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.mediatek.apmonitor domain=apmsrv_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.mediatek.capabilitytest domain=capability_app type=app_data_file levelFrom=user
+user=smartcard domain=platform_app type=app_data_file
+user=spi domain=platform_app type=app_data_file
+user=_app seinfo=oplus_theme domain=oplustheme_app type=app_data_file levelFrom=user
+user=system seinfo=engineermode domain=engineermode_app type=system_app_data_file
+user=_app seinfo=app_data_service_user name=com.coloros.backuprestore domain=oplus_backuprestore_app type=app_data_file
+user=_app seinfo=app_data_service_user name=com.oneplus.backuprestore domain=oplus_backuprestore_app type=app_data_file
+user=_app seinfo=app_data_service_user name=com.heytap.cloud domain=oplus_backuprestore_app type=app_data_file
+user=system seinfo=platform name=com.oplus.exsystemservice domain=oplus_exsystem_service_app type=system_app_data_file
