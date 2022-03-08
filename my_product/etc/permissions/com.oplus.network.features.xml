@@ -1,0 +1,18 @@
+<oplus-config>
+    <!-- Asiga@NETWORK.POWER.26376, 2020/04/27, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.nwpower_static_netcontroller_enabled" />
+
+    <!-- KangJin@NETWORK.DATA.1207635, 20201/03/09, add foreign sw disalbe nw limit notification-->
+    <oplus-feature name="oplus.software.radio.disable_nw_limit_notify"/>
+
+    <!-- Xiaolong.Su@NETWORK.REG.313285, 2020/09/30, add for dual 5g Enable-->
+    <oplus-feature name="oplus.software.radio.support_dual_nr"/>
+    <oplus-feature name="oplus.software.radio.dual_nr_enabled"/>
+    <!--limingqiang@NETWORK.RF.SAR,1494030,  2021/05/13, Add radio to read sar_config SElinux permission issue on MT6781-->
+    <oplus-feature name="oplus.software.radio.sar.earpiece.detect.support" />
+    <!-- ifdef OPLUS_FEATURE_FCC-->
+    <!-- Xiahaiao@NETWORK.RF,Add for support fcc_sar-->
+    <oplus-feature name="oplus.software.radio.sar.fcc.detect.support"/>
+    <oplus-feature name="oplus.software.radio.support_fcc_sar_region"/>
+    <!-- endif OPLUS_FEATURE_FCC-->
+</oplus-config>

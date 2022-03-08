@@ -1,0 +1,4 @@
+com.android.email.partnerprovider:EmailPartnerProvider.apk::false
+com.android.providers.partnerbookmarks:ChromePartnerProvider.apk::false
+com.heytap.openid:OpenID.apk::false
+com.oppo.quicksearchbox:GlobalSearch.apk::false

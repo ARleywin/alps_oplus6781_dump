@@ -1,0 +1,5 @@
+<oplus-config>
+
+    <!-- Tonghu.Deng@ANDROID.UIFramework, 2020/6/23, Add for light os window animation -->
+    <oplus-feature name="oplus.software.windowanimaiton.light" />
+</oplus-config>

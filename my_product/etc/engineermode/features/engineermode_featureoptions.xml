@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<features>
+    <!-- BSP feature -->
+    <feature name="com.oplus.eng.otg.support" />
+    <feature name="com.oplus.eng.sdcard.support" />
+    <feature name="com.oplus.eng.type.c.support" />
+    <feature name="com.oplus.eng.qc.charger.support" />
+    <feature name="com.oplus.eng.smallboard.detect.support" />
+    <feature name="com.oplus.eng.a.smallboard.detect.support" />
+    <feature name="com.oplus.eng.gyroscope.sensor.support" />
+    <feature name="com.oplus.eng.magnetic.sensor.support" />
+    <feature name="com.oplus.eng.gravity.sensor.calibrate.support" />
+    <feature name="com.oplus.eng.proximity.sensor.calibrate.support" />
+    <feature name="com.oplus.eng.light.sensor.calibrate.support" />
+    <feature name="com.oplus.eng.screen.light.sensor.support" />
+    <feature name="com.oplus.eng.proximity.distance.calibration.support" />
+    <feature name="com.oplus.eng.sensor.selftest.support" />
+    <feature name="com.oplus.eng.stepcounter.sensor.support" />
+    <feature name="com.oplus.eng.ship.mode.support" />
+    <feature name="com.oplus.eng.battery.flag.support" />
+    <feature name="com.oplus.eng.drm.widevine.support" />
+
+    <!-- Network feature -->
+    <feature name="com.oplus.eng.sim.hot.swap.support" />
+    <feature name="com.oplus.eng.network.air.interface.detect.support" />
+    <!-- Multimedia feature -->
+
+    <!-- Camera feature -->
+    <feature name="com.oplus.engineercamera.configure.arcsoft.dual.calibrate.aftersale.support" />
+
+    <!-- Connectivity feature -->
+
+    <!-- Android feature -->
+    <feature name="com.oplus.eng.devices.cali.status.check.support" />
+    <feature name="com.oplus.eng.exp.version" />
+    <!-- for Aging V1.3 -->
+    <feature name="com.oplus.eng.production.line.aging.new.support" />
+    <feature name="com.oplus.eng.navigation.bar.support" />
+    <feature name="com.oplus.eng.standlone.userdata.support" />
+    <feature name="com.oplus.eng.mtk.atm.mode.support" />
+
+</features>

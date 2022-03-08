@@ -1,0 +1,7 @@
+com.amazon.appmanager:com.amazon.appmanager.apk::false
+com.amazon.mShop.android.shopping:com.amazon.mShop.android.shopping.apk::false
+com.booking:com.booking.apk:.booking.data.aid:false
+com.tencent.igoppo:com.tencent.igoppo.apk::false
+com.amazon.avod.thirdpartyclient:com.amazon.avod.thirdpartyclient.apk::false
+com.amazon.mp3:com.amazon.mp3.apk::false
+com.linkedin.android:LinkedIn::true

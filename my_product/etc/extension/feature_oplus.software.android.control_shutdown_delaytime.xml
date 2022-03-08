@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+	<interface_feature name="oplus.software.android.control_shutdown_delaytime" type="always" args="int:8">
+	</interface_feature>
+</extend_features>

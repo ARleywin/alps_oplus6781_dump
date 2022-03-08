@@ -1,0 +1,4 @@
+<permissions>
+    <!-- ZhongWenjie@PSW.BSP.TP, 2020/12/28, Add for blackgesture -->
+    <feature name="oplus.lcd.first.tp.last.support"/>
+</permissions>

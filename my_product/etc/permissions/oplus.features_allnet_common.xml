@@ -1,0 +1,5 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Enable Zero Touch Provisioning support. -->
+    <feature name="com.google.android.feature.ZERO_TOUCH" />
+</permissions>

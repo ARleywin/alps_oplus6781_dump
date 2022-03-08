@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="com.oplus.battery.cabc_level_dynamic_enable" />
+    <!--Cheng.Wang@MULTIMEDIA.DISPLAY.LCD, 2021/10/22, Add for notification panel gauss blur disable -->
+    <app_feature name="com.android.systemui.gauss_blur_disabled"/>
+</extend_features>

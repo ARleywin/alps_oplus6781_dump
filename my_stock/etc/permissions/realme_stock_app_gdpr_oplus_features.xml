@@ -1,0 +1,8 @@
+<oplus-config>
+  <!-- gouwei@realmeUI, 2020/10/29, add for freeze-->
+  <oplus-feature name="oplus.software.forwardly_freeze" />
+  <!-- Qiu.Yu@ANDROID.UIFramework,2020.06.28,Add for uxicon exp. -->
+  <oplus-feature name="oplus.software.uxicon_exp" />
+  <!-- jinhui@realmeUI, 2021/6/07, add for realmeUI MORE multiapp support -->
+  <oplus-feature name="oplus.software.multiapp_support_rlm_ext" />
+</oplus-config>
